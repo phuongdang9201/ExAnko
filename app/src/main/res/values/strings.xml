@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExAnko</string>
+    <string name="btn_boom_menu_new_sub">Add new student</string>
+    <string name="btn_boom_menu_insert_sub">Insert student with posititon</string>
+    <string name="btn_boom_menu_refresh_sub">Refresh all item list</string>
+    <string name="btn_boom_menu_cler_sub">Clear all item list</string>
+</resources>

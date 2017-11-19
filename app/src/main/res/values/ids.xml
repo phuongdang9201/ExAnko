@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvUserName" type="id">1111</item>
+    <item name="imgUser" type="id">1112</item>
+    <item name="tvUserAge" type="id">1114</item>
+    <item name="tvUerAddress" type="id">1115</item>
+    <item name="tvUserSchool" type="id">1116</item>
+    <item name="tvShowMessageStep" type="id">1117</item>
+    <item name="tvTitleHeader" type="id">1118</item>
+</resources>
